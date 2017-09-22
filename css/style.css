@@ -1,0 +1,79 @@
+.main {
+	height: 15em;
+	width: 20em;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 50px;
+	border-radius: 1em;
+}
+
+.row {
+	height: 5em;
+}
+
+#city {
+	color: black;
+	font-size: 3em;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+#icon {
+	font-size: 4em;
+	margin-top: 20px;
+	padding-left: 30px;
+}
+
+#temp {
+	margin-top: 20px;
+	font-size: 2em;
+	padding-right: 10px;
+}
+
+#condition {
+	padding-top: 10px;
+	font-size: 1.5em;
+	padding-left: 30px;
+}
+
+#f {
+	border-right: 2px solid grey;
+	margin-left: -1px;
+}
+
+#c {
+	margin-right: -1px;
+}
+
+.button {
+	display: inline;
+}
+
+.btn.btn-link {
+	font-weight: bold;
+	font-size: 10px;
+	margin-top: -2px;
+	color: black;
+	text-decoration: none;
+}
+
+.btn-group {
+	margin-top: 14px;
+	border: solid 1px grey;
+	height: 1.5em;
+	border-radius: 20px 20px 20px 20px;
+	overflow: hidden;
+	margin-right: 10px;
+}
+
+#lisaCee{
+	margin-top: -20px;
+	font-size: .75em;
+	padding-right: 15px;
+	color: grey;
+}
+
+a {
+	color: grey;
+}
+
